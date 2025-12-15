@@ -1,0 +1,8 @@
+numpy
+cv2
+os
+astropy
+astroalign
+matplotlib
+IPython
+shutil
