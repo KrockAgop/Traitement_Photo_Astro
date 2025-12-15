@@ -1,7 +1,6 @@
 numpy
 opencv-python==4.7.0.72
-astropy
-astroalign
+astropy==6.1.7
+astroalign==2.6.2
 matplotlib
 IPython
-shutil
